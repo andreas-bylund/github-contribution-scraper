@@ -7,7 +7,7 @@ Suggestion how a scraper for downloading user contribution for the course "Proje
 + If the script have used all the API calls the script will go to sleep and wait until the script have API calls to use again.
 
 # Limitations
-+ This scripts follows Github's API limitations. This means that the script can use as much as 60 requests per hour.
++ This scripts follows Github's API limitations. This means that the script can use as much as 60 requests per hour. But can go up to 5000 requests per hour if you authenticate yourself (authenticate functionality does not exists at the moment)
 # Example output
 ![Example output](http://andreasbylund.se/img/output_example.png)
 
