@@ -11,5 +11,9 @@ Suggestion how a scraper for downloading user contribution for the course "Proje
 # Example output
 ![Example output](http://andreasbylund.se/img/output_example.png)
 
+![Example output](http://andreasbylund.se/img/output_example_2.png)
+
+![Example output](http://andreasbylund.se/img/output_example_3.png)
+
 # License
 Open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
