@@ -9,11 +9,11 @@ Suggestion how a scraper for downloading user contribution for the course "Proje
 # Limitations
 + This scripts follows Github's API limitations. This means that the script can use as much as 60 requests per hour. But can go up to 5000 requests per hour if you authenticate yourself (authenticate functionality does not exists at the moment)
 # Example output
-![Example output](http://andreasbylund.se/img/output_example.png)
+![Example output](http://andreasbylund.se/img/git-contribution-scraper/exempel_1.png)
 
-![Example output](http://andreasbylund.se/img/output_example_2.png)
+![Example output](http://andreasbylund.se/img/git-contribution-scraper/exempel_2.png)
 
-![Example output](http://andreasbylund.se/img/output_example_3.png)
+![Example output](http://andreasbylund.se/img/git-contribution-scraper/exempel_3.png)
 
 # License
 Open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
